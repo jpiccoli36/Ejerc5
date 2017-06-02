@@ -64,7 +64,8 @@ public class Controlador {
 
 		}
 
-//metodo!	
+
+//ver metodo
 
 	public void porNombre(String Nombre, String Apellido) {
 		for (Persona per : pe) {
