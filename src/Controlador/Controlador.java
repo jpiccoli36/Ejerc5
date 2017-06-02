@@ -57,7 +57,7 @@ public class Controlador {
 		}
 
 
-//ver metodo
+//este metodo fue visto!
 
 	public void porNombre(String Nombre, String Apellido) {
 		for (Persona per : pe) {
